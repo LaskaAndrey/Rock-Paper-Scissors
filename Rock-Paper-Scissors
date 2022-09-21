@@ -41,7 +41,7 @@ def game
       puts "I chose paper. Scissors cut paper. You win."
     else
       puts "I didn't understand you. Please try again."
-      game
+      game 
     end #end nested if statement
   end #end if statement
 end #end game def
